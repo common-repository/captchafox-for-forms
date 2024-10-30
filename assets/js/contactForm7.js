@@ -1,0 +1,1 @@
+"use strict";(()=>{document.addEventListener("DOMContentLoaded",function(){function e(){window.captchaFoxWPReset(".wpcf7-form")}document.addEventListener("wpcf7mailsent",e),document.addEventListener("wpcf7mailfailed",e),document.addEventListener("wpcf7spam",e),document.addEventListener("wpcf7submit",e),document.addEventListener("wpcf7invalid",e)});})();

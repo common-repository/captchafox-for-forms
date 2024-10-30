@@ -1,0 +1,1 @@
+"use strict";(()=>{const t=o=>{function c(){window.captchaFoxWPReset("form.woocommerce-checkout")}o(document.body).on("checkout_error",c),o(document.body).on("updated_checkout",function(){var e;(e=window.captchaFoxOnLoad)==null||e.call(window),c()})};jQuery(document).ready(t);})();

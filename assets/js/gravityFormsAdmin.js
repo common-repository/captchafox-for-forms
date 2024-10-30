@@ -1,0 +1,1 @@
+"use strict";(()=>{window.SetDefaultValues_captchafox=function(a){return a.label="CaptchaFox",a.labelPlacement="hidden_label",a.inputs=null,a.displayOnly=!0,a};jQuery(document).on("gform_field_added",function(a,e,n){n.type==="captchafox"&&window.captchaFoxOnLoad()});})();
